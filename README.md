@@ -5,4 +5,4 @@ This has the following components
   2. LCD display
   3. IR sensor
   4. Connecting wire
-software used: Ardunio IDE
+software used: Ardunio IDE 
